@@ -4,13 +4,13 @@
 }
 
 .first-chunk, .second-chunk, .third-chunk, .fourth-chunk, .final-chunk {
-    
+
     background-color: lightcyan;
-    padding: 2em;
     border: 1px solid black;
 }
 
-.one, .two, .three, .four, .five, .six, .seven, .eight, .nine, .clear-button, .display-screen, .divide, .multiply, .addition, .decimal, .subtract, .equal, {
+.one, .two, .three, .four, .five, .six, .seven, .eight, .nine, .divide, .multiply, .minus, .add, .equal, .decimal, .zero, .clear-button, .display-screen {
     border: 1px solid black;
     padding: 2em;
 }
+
