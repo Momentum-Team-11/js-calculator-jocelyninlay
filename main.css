@@ -1,10 +1,10 @@
 .plastic-body {
     display: flex;
-    
+    flex-direction: column;
 }
 
 .first-chunk, .second-chunk, .third-chunk, .fourth-chunk, .final-chunk {
-
+    display: flex;
     background-color: lightcyan;
     border: 1px solid black;
 }
